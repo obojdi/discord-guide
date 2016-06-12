@@ -3,7 +3,8 @@
         "gitbook-plugin-tasklist",
         "gitbook-plugin-indexes",
         "anchors",
-        "add-header"
+        "add-header",
+        "algolia"
     ],
     "pluginsConfig": {}
 }
