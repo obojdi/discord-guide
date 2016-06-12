@@ -1,6 +1,6 @@
 # Summary
 
 * [Вступление](README.md)
-* [Куда жать](chapter1.md)
+* [Я тут первый раз](chapter1.md)
    * Куда жать
 
