@@ -3,7 +3,8 @@
         "algolia",
         "fancybox",
         "infinitescroll",
-        "typekit"
+        "typekit",
+        "tufte"
     ],
     "pluginsConfig": {
         "algolia": {
