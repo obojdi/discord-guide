@@ -2,7 +2,7 @@
     "plugins": [
         "algolia",
         "fancybox",
-        "-typekit",
+        "typekit",
         "-tufte"
     ],
     "pluginsConfig": {
