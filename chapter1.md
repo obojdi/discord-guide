@@ -8,7 +8,7 @@ First off, if you came through the link and HAVE NEVER used Discord before, you�
 
 _Versions for: Windows, MAC for Desktops | Apple IOS & Android for Mobile_
 
-Now you might have lots of little yellow exclamation marks everywhere. That’s Discord trying to teach you stuff. You can go ahead and read what they have to say. Just in case you didn’t and just skipped through their whole tutorial (which I think most people will), whatever they cover will also be in this guide, so don’t worry. ![😉](https://s0.wp.com/wp-content/mu-plugins/emoji/twemoji/svg/1f609.svg)
+Now you might have lots of little yellow exclamation marks everywhere. That’s Discord trying to teach you stuff. You can go ahead and read what they have to say. Just in case you didn’t and just skipped through their whole tutorial (which I think most people will), whatever they cover will also be in this guide, so don’t worry.
 
 Here’s a screenshot of what your Discord client looks like. We’ll use this as a base to explain what exactly is going on.
 
@@ -24,7 +24,7 @@ This settings page is basically where you set all of your preferences. We’ll d
 
 ### Settings – Account
 
-On the Account tab, you can change your email as well as your display picture. It is HIGHLY RECOMMENDED to change your display picture so you don’t LOOK like a newbie. Show people that you know how to use this thing. ![😉](https://s0.wp.com/wp-content/mu-plugins/emoji/twemoji/svg/1f609.svg) . Make sure you enter your current password in that field. It won’t let you save this page otherwise.
+On the Account tab, you can change your email as well as your display picture. It is HIGHLY RECOMMENDED to change your display picture so you don’t LOOK like a newbie. Show people that you know how to use this thing. Make sure you enter your current password in that field. It won’t let you save this page otherwise.
 
 ### Settings – Text & Images
 
@@ -94,7 +94,7 @@ Last thing to note about servers is that they have specific settings and configu
 
 [![2015-09-01_2026](https://aigachu.files.wordpress.com/2015/09/2015-09-01_2026.png?w=700)](https://aigachu.files.wordpress.com/2015/09/2015-09-01_2026.png) 
 
-I won’t get into the detail of server configuration just yet, and most likely leave that for later since mostly server moderators/managers will be using those functions. Now enough of servers. Let’s get to the REAL stuff. ![:)](https://s1.wp.com/wp-content/mu-plugins/wpcom-smileys/simple-smile.svg)
+I won’t get into the detail of server configuration just yet, and most likely leave that for later since mostly server moderators/managers will be using those functions. Now enough of servers. Let’s get to the REAL stuff.
 
 ### Text Channels && Voice Channels
 
@@ -104,7 +104,7 @@ Check out the blue colored box. People coming into a server might get super conf
 
 Text Channels in Discord are basically different chat rooms within a server. It doesn’t get any more complex than that! We can add a large amount of different rooms that users can access simply by clicking them. When you click on a text channel, the chat for that channel is instantly loaded up.
 
-If you notice that you can’t type/read in certain channels and whatnot, that’s because of permissions. Within a server, different permissions can be set for different channels, and managers can basically select who can type as well who can read in each channel. Permissions will be covered in more details in my soon to come server management guide. ![:)](https://s1.wp.com/wp-content/mu-plugins/wpcom-smileys/simple-smile.svg)
+If you notice that you can’t type/read in certain channels and whatnot, that’s because of permissions. Within a server, different permissions can be set for different channels, and managers can basically select who can type as well who can read in each channel. Permissions will be covered in more details in my soon to come server management guide.
 
 Having text channels is great for the sake of separating chat topics or purposes. You can also have chats solely for certain users, like a chat for Managers. If you’re in a server with your group of friends, you can separate chats for the different games you play.
 
@@ -132,7 +132,7 @@ If you click on this avatar, you will be brought to another page where you can s
 
 [![2015-09-01_2004](https://aigachu.files.wordpress.com/2015/09/2015-09-01_2004.png?w=700)](https://aigachu.files.wordpress.com/2015/09/2015-09-01_2004.png) 
 
-This might be weird to get used to at first, but all users from all Servers you joined are piled up into this list. Therefore, you don’t really control who you add / remove, as there really is no “Friend’s list”…For now. ![😉](https://s0.wp.com/wp-content/mu-plugins/emoji/twemoji/svg/1f609.svg)
+This might be weird to get used to at first, but all users from all Servers you joined are piled up into this list. Therefore, you don’t really control who you add / remove, as there really is no “Friend’s list”…For now.
 
 In any case, if you want to chat 1-on-1, click on this avatar and click on the name of the person you want to chat with. This will open the chat for that person.
 
@@ -144,7 +144,7 @@ Next up, some tips and tricks to get started with using this beast!
 
 ## Cool Stuff
 
-We got through all of the beginner stuff, and now we want to start using it like a pro. I’m gonna teach you guys a couple tricks that you may not know about. ![😉](https://s0.wp.com/wp-content/mu-plugins/emoji/twemoji/svg/1f609.svg)
+We got through all of the beginner stuff, and now we want to start using it like a pro. I’m gonna teach you guys a couple tricks that you may not know about.
 
 ### Discord Link Generation
 
@@ -164,7 +164,7 @@ Click on the link shown in the screenshot to generate a link. The reason why the
 
 [![2015-09-05_1626](https://aigachu.files.wordpress.com/2015/09/2015-09-05_1626.png?w=700)](https://aigachu.files.wordpress.com/2015/09/2015-09-05_1626.png) 
 
-This small window is the instant invite window where you can get the link. Other people that click this link will be brought straight to the Discord channel that you linked them to, and will be prompted to create an account if they haven’t already. Pretty neat if you ask me. ![😉](https://s0.wp.com/wp-content/mu-plugins/emoji/twemoji/svg/1f609.svg)
+This small window is the instant invite window where you can get the link. Other people that click this link will be brought straight to the Discord channel that you linked them to, and will be prompted to create an account if they haven’t already. Pretty neat if you ask me.
 
 The orange square is the link. The blue square shows the twitter button, basically allowing you to share the discord link directly on twitter. Lastly, the black button basically puts the link into your clipboard if you’re too cool to CTLR+C.
 
