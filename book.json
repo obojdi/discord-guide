@@ -1,8 +1,12 @@
 {
     "plugins": [
+        "gitbook-plugin-tasklist",
+        "gitbook-plugin-indexes",
+        "anchors",
+        "add-header",
         "algolia",
         "fancybox",
-        "fontsettings"
+        "-fontsettings"
     ],
     "pluginsConfig": {
         "algolia": {
@@ -11,10 +15,10 @@
             "publicKey": "2996c0a12d00bc50a087a97b58527129",
             "freeAccount": "true"
         },
-        "fontsettings": {
+        "-fontsettings": {
             "theme": "night",
             "family": "sans",
-            "size": 2
+            "size": "2"
         }
     }
 }
