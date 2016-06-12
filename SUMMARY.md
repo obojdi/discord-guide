@@ -6,7 +6,7 @@
    * [настройки аккаунта](nastroiki_akkaunta.md)
    * [настраиваем голос](nastraivaem_golos.md)
    * [уведомления](uvedomleniya.md)
-   * мобильное приложение
+   * [мобильное приложение](mobilnoe_prilozhenie.md)
 * [Я знаком с discord](ya_znakom_s_discord.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
 
