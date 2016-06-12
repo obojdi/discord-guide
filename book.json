@@ -6,5 +6,12 @@
         "add-header",
         "algolia"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "algolia": {
+            "index": "gitbook",
+            "applicationID": "UJ2X5HLCNX",
+            "publicKey": "2996c0a12d00bc50a087a97b58527129",
+            "freeAccount": "true"
+        }
+    }
 }
