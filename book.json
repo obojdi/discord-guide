@@ -1,7 +1,5 @@
 {
     "plugins": [
-        "gitbook-plugin-tasklist",
-        "gitbook-plugin-indexes",
         "anchors",
         "add-header",
         "algolia",
