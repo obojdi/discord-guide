@@ -5,6 +5,7 @@
    * [Куда жать](kuda_zhat.md)
    * настройки аккаунта
    * настраиваем голос
+   * уведомления
 * [Я знаком с discord](ya_znakom_s_discord.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
 
