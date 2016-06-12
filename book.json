@@ -1,7 +1,8 @@
 {
     "plugins": [
         "algolia",
-        "fancybox"
+        "fancybox",
+        "infinitescroll"
     ],
     "pluginsConfig": {
         "algolia": {
