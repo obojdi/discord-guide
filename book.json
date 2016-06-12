@@ -1,3 +1,9 @@
 {
-"plugins": ["gitbook-plugin-tasklist","gitbook-plugin-indexes", "anchors"]
+    "plugins": [
+        "gitbook-plugin-tasklist",
+        "gitbook-plugin-indexes",
+        "anchors",
+        "add-header"
+    ],
+    "pluginsConfig": {}
 }
