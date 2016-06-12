@@ -3,7 +3,8 @@
         "anchors",
         "-add-header",
         "algolia",
-        "fancybox"
+        "fancybox",
+        "infinitescroll"
     ],
     "pluginsConfig": {
         "algolia": {
