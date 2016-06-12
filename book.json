@@ -2,7 +2,8 @@
     "plugins": [
         "algolia",
         "fancybox",
-        "infinitescroll"
+        "infinitescroll",
+        "typekit"
     ],
     "pluginsConfig": {
         "algolia": {
