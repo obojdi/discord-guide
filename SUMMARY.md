@@ -1,5 +1,5 @@
 # Summary
 
 * [Вступление](README.md)
-* [First Chapter](chapter1.md)
+* [Куда жать](chapter1.md)
 
