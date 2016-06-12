@@ -24,7 +24,7 @@
 Ваши следующие шаги:
 
 1. Зарегистрировать ник. [Как это сделать?](registratsiya_nika.md)
-2. [Скачать клиент](https://discordapp.com/download) для десктопа (windows, mac; а так же для смартфонов).
+2. <a href="https://discordapp.com/download" target="_blank">Скачать клиент</a> для десктопа (windows, mac; а так же для смартфонов).
 3. [Настроить голос и другие параметры](ssilka.ru). 
 
 Дополнительная информация:
