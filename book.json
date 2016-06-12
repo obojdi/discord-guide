@@ -2,7 +2,6 @@
     "plugins": [
         "algolia",
         "fancybox",
-        "infinitescroll",
         "typekit",
         "tufte"
     ],
