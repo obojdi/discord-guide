@@ -1,7 +1,7 @@
 {
     "plugins": [
         "anchors",
-        "add-header",
+        "-add-header",
         "algolia",
         "fancybox"
     ],
