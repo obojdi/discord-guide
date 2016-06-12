@@ -5,7 +5,6 @@
 * [Я хочу помочь](ya_hochu_pomoch.md)
 * [Я тут первый раз](chapter1.md)
    * [настройки аккаунта](nastroiki_akkaunta.md)
-   * [настраиваем голос](nastraivaem_golos.md)
    * [уведомления](uvedomleniya.md)
    * [мобильное приложение](mobilnoe_prilozhenie.md)
 
