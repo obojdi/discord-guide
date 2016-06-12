@@ -5,8 +5,7 @@
         "anchors",
         "add-header",
         "algolia",
-        "fancybox",
-        "fontsettings"
+        "fancybox"
     ],
     "pluginsConfig": {
         "algolia": {
@@ -14,11 +13,6 @@
             "applicationID": "UJ2X5HLCNX",
             "publicKey": "2996c0a12d00bc50a087a97b58527129",
             "freeAccount": "true"
-        },
-        "fontsettings": {
-            "theme": "white",
-            "family": "sans",
-            "size": "2"
         }
     }
 }
