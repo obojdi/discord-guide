@@ -5,7 +5,7 @@
         "anchors",
         "add-header",
         "algolia",
-        "-fancybox"
+        "fancybox"
     ],
     "pluginsConfig": {
         "algolia": {
