@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "anchors",
         "algolia",
         "fancybox",
         "fontsettings"
