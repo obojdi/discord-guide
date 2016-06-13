@@ -9,7 +9,7 @@
    * [Оверлей](dop/overlay.md)
    * [Личные сообщения](dop/dm.md)
    * [Тонкости и секреты](dop/tips.md)
-   * TeamSpeak
+   * [TeamSpeak](dop/teamspeak.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
 * [Тот гайд на англ](chapter1.md)
 
