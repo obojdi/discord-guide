@@ -8,4 +8,4 @@
 
 ---
 
-Следующий шаг: <a href="https://discordapp.com/download" target="_blank">скачать</a> клиент и настроить его.
+Следующий шаг: <a href="https://discordapp.com/download" target="_blank">скачать</a> клиент и [настроить](main/settings.md) его.
