@@ -6,7 +6,7 @@
 * Дополнительная информация
    * [Веб-версия](dop/browser.md)
    * [Голосовая связь](dop/voice.md)
-   * [Оверлей](overlay.md)
+   * [Оверлей](dop/overlay.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
 * [Тот гайд на англ](chapter1.md)
 
