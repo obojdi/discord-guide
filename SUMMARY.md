@@ -11,5 +11,5 @@
    * [Тонкости и секреты](dop/tips.md)
    * [TeamSpeak](dop/teamspeak.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
-* [Тот гайд на англ](chapter1.md)
+* [Тот гайд на английском](chapter1.md)
 
