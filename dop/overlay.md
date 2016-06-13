@@ -42,3 +42,5 @@
 Так же, в зависимости от настроек оверлея, под иконкой дискорда будет список участников текущего голосового канала (или, например, только тех, кто сейчас говорит).
 
 Скрыть саму иконку дискорда, пока что, нельзя. 
+
+<video class="video" autoplay="" loop=""><source type="video/webm" src="https://discordapp.com/assets/16e5152b43da82237f206ccb38de1398.webm"><source type="video/mp4" src="https://discordapp.com/assets/42ead398c02ea1cd1462fc6b2b7334db.mp4"></video>
