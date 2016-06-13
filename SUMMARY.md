@@ -5,11 +5,11 @@
    * [Настройки](main/settings.md)
 * Дополнительная информация
    * [Веб-версия](dop/browser.md)
+   * [TeamSpeak](dop/teamspeak.md)
    * [Голосовая связь](dop/voice.md)
    * [Оверлей](dop/overlay.md)
    * [Личные сообщения](dop/dm.md)
    * [Тонкости и секреты](dop/tips.md)
-   * [TeamSpeak](dop/teamspeak.md)
 * [Я хочу помочь](ya_hochu_pomoch.md)
 * [Тот гайд на английском](chapter1.md)
 
