@@ -28,6 +28,7 @@
 ![](img/browser-mic.png)
 
 ![](img/browser-mic-permission.png)
+
 После этого полоска чувствительности станет активной — значит микрофон заработал. Как использовать голосовую связь?
 
 ![](img/browser-mic-sens.gif)
