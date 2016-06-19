@@ -3,7 +3,7 @@
 * [Гайд по Дискорду](README.md)
    * [Регистрация ника](main/registratsiya_nika.md)
    * [Настройки](main/settings.md)
-* [Краткая памятка](brief.md)
+   * [Краткая памятка](main/brief.md)
 * Дополнительная информация
    * [Веб-версия](dop/browser.md)
    * [TeamSpeak](dop/teamspeak.md)
